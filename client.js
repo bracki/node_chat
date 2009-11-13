@@ -40,6 +40,7 @@ function userPart(nick, timestamp) {
     }
   }
   updateUsersLink();
+  updateUsersDisplay();
 }
 
 // utility functions
